@@ -1,0 +1,10 @@
+Github repo for CoughLoud Project:
+https://github.com/avakar-healthwin/CoughLoud_1.2/tree/master/vuejs-myproject
+
+
+Github repo for Google Spreadsheet:
+https://github.com/avakar-healthwin/CoughLoud_1.2/blob/master/google-sp.txt
+
+
+Website Link:
+https://coughloud.healthwin.in/
